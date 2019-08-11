@@ -1,7 +1,7 @@
 # BDO-Accessory-Enhancement-Calculator
 Accessory enhancement chance calculator for Black Desert Online
 
-Calcolatore di probabilità e di costo medio di enhancement per gli accessori di qualsiasi tipo.
+Calcolatore di probabilità e di costo medio di enhancement per gli accessori di qualsiasi tipologia.
 
 **Tutorial:**
 
@@ -12,3 +12,4 @@ Calcolatore di probabilità e di costo medio di enhancement per gli accessori di
 
 *N.B.*  
 In caso di errore JNI all'avvio del programma, scaricare la versione più recente di JRE e/o JDK.
+

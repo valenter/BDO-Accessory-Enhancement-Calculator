@@ -13,3 +13,8 @@ Calcolatore di probabilità e di costo medio di enhancement per gli accessori di
 *N.B.*  
 In caso di errore JNI all'avvio del programma, scaricare la versione più recente di JRE e/o JDK.
 
+Librerie utilizzate:
+- https://github.com/axkr/symja_android_library
+
+Software utilizzato:
+- http://launch4j.sourceforge.net/
